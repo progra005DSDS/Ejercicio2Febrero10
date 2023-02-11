@@ -4,7 +4,7 @@ ejercicio 2
 Se requiere un programa en Java para calcular el resultado de la suma, diferencia, producto, módulo y cociente de dos números decimales de cualquier longitud.
 ## Definicion de la solucion 
 -Datos de entrada
-float nim1, num2, suma , duferncia, producto, conciente, modulo, conciente1
+float nim1, num2, suma , duferncia, producto, conciente, modulo,
 -Proceso
 ingreso el primer número a utilizar
 ingreso el segundo  número a utilizar
