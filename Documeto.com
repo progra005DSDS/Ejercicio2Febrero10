@@ -18,7 +18,7 @@ diferencia
 producto
 cociente
 ## Diseñar la solucion
-! [](
+! [](https://github.com/progra005DSDS/Ejercicio2Febrero10/blob/master/Ejercicio2.png)
 ## Desarollar la solucion
 suma=num1+num2
 diferencia=num1-num2
