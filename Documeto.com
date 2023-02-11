@@ -18,6 +18,7 @@ diferencia
 producto
 cociente
 ## Diseñar la solucion
+! [](
 ## Desarollar la solucion
 suma=num1+num2
 diferencia=num1-num2
